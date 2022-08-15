@@ -1,0 +1,72 @@
+/*heading*/
+h3 {
+  text-align: center;
+  border: ;
+  border-radius: 50px;
+  margin: 10px;
+  font-family: ;
+  padding: 7px;
+  color: #33052a;
+  background-color: ;
+  font-size: 30px;
+}
+body {
+  border-collapse: collapse;
+  background-repeat: no-repeat;
+  border-radius: 1px solid black;
+  padding: 5px;
+  width: ;
+}
+#backI {
+  background-image: url();
+  border-collapse: collapse;
+  background-repeat: no-repea;
+  border-radius: 1px solid black;
+  padding: 1px;
+  width: px;
+}
+
+/*first paragraph*/
+p {
+  text-align: center;
+  border: ;
+  margin: 3px;
+  font-family: Merriweather, serif;
+  font-size: 25px;
+  padding: 5px;
+  color: #140426;
+  border: ;
+  border-radius: 10px;
+}
+
+/*image logo*/
+#image {
+  background: ;
+  width: auto;
+  height: 300px;
+  text-align: ;
+  border-radius: 400px;
+}
+
+.image {
+}
+
+/*div 1*/
+
+/*input for button tab*/
+.input {
+  text-align: center;
+  border: 2px solid grey;
+  border-radius: 5px;
+  margin: 15px;
+  font-family: Inconsolata;
+  padding: 5px;
+  color: #455a64;
+  width: 100px;
+  cursor: pointer;
+}
+.input:hover {
+  background-color: black;
+  color: orange;
+}
+
